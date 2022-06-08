@@ -1,7 +1,9 @@
 # Burp-Suite-Extensions
 
-## TODO
+## HTTP Headers Analyser
+This extension reports issues regarding HTTP headers. Currently supported features include:
+- Reporting the lack of HTTP security headers, as defined by the OWASP Secure Headers project
 
-### HTTP Headers Analyser
+### TODO
 - Add support for inadequate headers
-- Write remedations, backgrounds and remediations backgrounds for each issue
+- Write the remediation, background, and remdediation background for each issue
