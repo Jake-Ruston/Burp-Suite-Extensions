@@ -7,3 +7,4 @@ This extension reports issues regarding HTTP headers. Currently supported featur
 ### TODO
 - Add support for inadequate headers
 - Write the remediation, background, and remdediation background for each issue
+- Create a tab for configuring which headers are reported on per project
